@@ -1,2 +1,2 @@
 <h1>Contact Us</h1>
-<P>ginalk@aol.com</P>
+<p>ginalk@aol.com</p>

@@ -16,10 +16,9 @@ RatesInsurance includes all that information
     <Header/>
     <h1>Welcome to SvelteKit</h1>
     <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-
-
-    <Mom/>
-    <Contact/>
-    <NewClients/>
-    <RatesInsurance/>
+    
+    <Mom />
+    <Contact />
+    <NewClients />
+    <RatesInsurance />
 </section>
